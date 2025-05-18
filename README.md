@@ -125,7 +125,9 @@ if __name__ == '__main__':
 ~~~
 
 ## OUTPUT:
-![image](https://github.com/user-attachments/assets/3e308f3a-74f2-4720-be69-ad19f2e7bc75)
+![443704305-3e308f3a-74f2-4720-be69-ad19f2e7bc75](https://github.com/user-attachments/assets/41c5399d-0d17-407f-a976-845189ec81cf)
+
+
 
 
 ## Result:
